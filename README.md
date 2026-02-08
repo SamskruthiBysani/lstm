@@ -12,7 +12,7 @@ Stock price movements are sequential and non-linear in nature. Traditional model
 
 ## Dataset
 - Source: Yahoo Finance  
-- Ticker: GOOGL  
+- Ticker: GOOGLE  
 - Features:
   - Open
   - High
